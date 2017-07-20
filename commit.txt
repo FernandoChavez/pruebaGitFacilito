@@ -1,0 +1,29 @@
+commit 58fb107ba7a9ab2a922a00e75c5c1b6591dc04e0
+Author: FernandoChavez <luis_fernando_chavez@hotmail.com>
+Date:   Thu Jul 20 12:58:10 2017 -0500
+
+    Se agrego un texto mas a la linea extra
+
+commit fca9b6cef8a841fb5315c7e647dba6181e34c036
+Author: FernandoChavez <luis_fernando_chavez@hotmail.com>
+Date:   Thu Jul 20 12:47:06 2017 -0500
+
+    Agrendo una linea mas
+
+commit 007af52ef95e5bd938d2ec179127b31c7496761d
+Author: FernandoChavez <luis_fernando_chavez@hotmail.com>
+Date:   Thu Jul 20 11:18:32 2017 -0500
+
+    Se modificó un parrafo y se implementó una hoja de estilos con un formato base
+
+commit 70cb1b68891e91bcd8510ad2db8a69513e08de32
+Author: FernandoChavez <luis_fernando_chavez@hotmail.com>
+Date:   Thu Jul 20 10:55:40 2017 -0500
+
+    Agregue una linea mas de prueba
+
+commit 5ec9b420bb02b12211ff338141a2c82df01b0bfe
+Author: FernandoChavez <luis_fernando_chavez@hotmail.com>
+Date:   Thu Jul 20 10:51:19 2017 -0500
+
+    Iniciamos
